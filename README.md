@@ -1,7 +1,7 @@
 # Sudoku
-1[](src/sudoku/preview1.png)
+![](src/sudoku/preview1.png)
 
-2[](src/sudoku/preview2.png)
+![](src/sudoku/preview2.png)
 
 Sudoku game in Java with time tracking, error checking and the following options:
 - generating new matrix to solve (using randomization and backtracking to check whether a matrix can be solved)
